@@ -26,7 +26,7 @@ How to Run the Project Locally
 1. Clone the repository
 
    bash
-   git clone https://github.com/yourusername/ecommerce-webpage.git
+   git clone https://github.com/Sharmitha2006/MVP
   
 2. Open the folder in your code editor (like VS Code).
 3. Open index.html in your browser.
